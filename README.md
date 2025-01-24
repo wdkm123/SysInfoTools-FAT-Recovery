@@ -1,7 +1,4 @@
 # SysInfoTools-FAT-Recovery
-Sure! Here's a 300-word article that can be posted on a GitHub README file, with the requested hyperlink included:
-
----
 
 # SysInfoTools FAT Recovery - Free Tool for Data Recovery
 
